@@ -1,8 +1,8 @@
 package com.company;
 
 public class Flight {
-    private String flightNumber ;
-    private String airline;
+    String flightNumber ;
+    String airline;
     private int capacity;
     private int bookedSeats;
 
